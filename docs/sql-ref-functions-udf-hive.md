@@ -1,5 +1,6 @@
 ---
-layout: global
+layout: subpage-with-subnav
+subnav: sql
 title: Integration with Hive UDFs/UDAFs/UDTFs
 displayTitle: Integration with Hive UDFs/UDAFs/UDTFs
 license: |

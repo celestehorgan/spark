@@ -1,5 +1,6 @@
 ---
-layout: global
+layout: subpage-with-subnav
+subnav: sql
 title: PySpark Usage Guide for Pandas with Apache Arrow
 displayTitle: PySpark Usage Guide for Pandas with Apache Arrow
 license: |

@@ -1,5 +1,6 @@
 ---
-layout: global
+layout: subpage-with-subnav
+subnav: sql
 title: Sketch-Based Approximate Functions
 displayTitle: Sketch-Based Approximate Functions
 license: |

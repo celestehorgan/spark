@@ -1,5 +1,6 @@
 ---
-layout: global
+layout: subpage-with-subnav
+subnav: sql
 title: Built-in Functions
 displayTitle: Built-in Functions
 license: |

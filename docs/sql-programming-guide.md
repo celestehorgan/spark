@@ -1,5 +1,6 @@
 ---
-layout: global
+layout: subpage-with-subnav
+subnav: sql
 displayTitle: Spark SQL, DataFrames and Datasets Guide
 title: Spark SQL and DataFrames
 license: |

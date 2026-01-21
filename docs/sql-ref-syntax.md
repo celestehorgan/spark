@@ -1,5 +1,6 @@
 ---
-layout: global
+layout: subpage-with-subnav
+subnav: sql
 title: SQL Syntax
 displayTitle: SQL Syntax
 license: |

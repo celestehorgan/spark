@@ -1,5 +1,6 @@
 ---
-layout: global
+layout: subpage-with-subnav
+subnav: sql
 title: "Migration Guide: SQL, Datasets and DataFrame"
 displayTitle: "Migration Guide: SQL, Datasets and DataFrame"
 license: |

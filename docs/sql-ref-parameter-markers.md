@@ -1,5 +1,6 @@
 ---
-layout: global
+layout: subpage-with-subnav
+subnav: sql
 title: Parameter markers
 displayTitle: Parameter markers
 license: |

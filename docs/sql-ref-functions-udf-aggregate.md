@@ -1,5 +1,6 @@
 ---
-layout: global
+layout: subpage-with-subnav
+subnav: sql
 title: User Defined Aggregate Functions (UDAFs)
 displayTitle: User Defined Aggregate Functions (UDAFs)
 license: |

@@ -1,5 +1,6 @@
 ---
-layout: global
+layout: subpage-with-subnav
+subnav: sql
 title: Datetime patterns
 displayTitle: Datetime Patterns for Formatting and Parsing
 license: |

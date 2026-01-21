@@ -1,5 +1,6 @@
 ---
-layout: global
+layout: subpage-with-subnav
+subnav: sql
 title: Apache Avro Data Source Guide
 license: |
   Licensed to the Apache Software Foundation (ASF) under one or more

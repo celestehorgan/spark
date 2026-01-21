@@ -1,5 +1,6 @@
 ---
-layout: global
+layout: subpage-with-subnav
+subnav: sql
 title: Spark SQL CLI
 displayTitle: Spark SQL CLI
 license: |

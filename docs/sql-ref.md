@@ -1,5 +1,6 @@
 ---
-layout: global
+layout: subpage-with-subnav
+subnav: sql
 title: SQL Reference
 redirect_from: /sql-reference
 displayTitle: SQL Reference

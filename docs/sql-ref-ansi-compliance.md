@@ -1,5 +1,6 @@
 ---
-layout: global
+layout: subpage-with-subnav
+subnav: sql
 title: ANSI Compliance
 displayTitle: ANSI Compliance
 license: |

@@ -1,5 +1,6 @@
 ---
-layout: global
+layout: subpage-with-subnav
+subnav: sql
 title: Number patterns
 displayTitle: Number Patterns for Formatting and Parsing
 license: |

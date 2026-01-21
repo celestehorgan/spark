@@ -1,5 +1,6 @@
 ---
-layout: global
+layout: subpage-with-subnav
+subnav: sql
 title: Binary File Data Source
 displayTitle: Binary File Data Source
 license: |

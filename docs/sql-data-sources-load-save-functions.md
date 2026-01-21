@@ -1,5 +1,6 @@
 ---
-layout: global
+layout: subpage-with-subnav
+subnav: sql
 title: Generic Load/Save Functions
 displayTitle: Generic Load/Save Functions
 license: |

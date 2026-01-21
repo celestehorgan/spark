@@ -1,5 +1,6 @@
 ---
-layout: global
+layout: subpage-with-subnav
+subnav: sql
 title: Hive Tables
 displayTitle: Hive Tables
 license: |

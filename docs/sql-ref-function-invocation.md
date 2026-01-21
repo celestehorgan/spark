@@ -1,5 +1,6 @@
 ---
-layout: global
+layout: subpage-with-subnav
+subnav: sql
 title: Function Invocation
 displayTitle: Function Invocation
 license: |

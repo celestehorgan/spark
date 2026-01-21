@@ -1,5 +1,6 @@
 ---
-layout: global
+layout: subpage-with-subnav
+subnav: sql
 title: Generic File Source Options
 displayTitle: Generic File Source Options
 license: |

@@ -1,5 +1,6 @@
 ---
-layout: global
+layout: subpage-with-subnav
+subnav: sql
 title: Identifiers
 displayTitle: Identifiers
 license: |

@@ -1,5 +1,6 @@
 ---
-layout: global
+layout: subpage-with-subnav
+subnav: sql
 title: Scalar User Defined Functions (UDFs)
 displayTitle: Scalar User Defined Functions (UDFs)
 license: |

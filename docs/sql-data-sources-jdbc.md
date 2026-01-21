@@ -1,5 +1,6 @@
 ---
-layout: global
+layout: subpage-with-subnav
+subnav: sql
 title: JDBC To Other Databases
 displayTitle: JDBC To Other Databases
 license: |
