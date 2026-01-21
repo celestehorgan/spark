@@ -1,7 +1,8 @@
 ---
-layout: global
+layout: subpage-with-subnav
 displayTitle: Structured Streaming Programming Guide
 title: Structured Streaming Programming Guide
+subnav: streaming
 license: |
   Licensed to the Apache Software Foundation (ASF) under one or more
   contributor license agreements.  See the NOTICE file distributed with

@@ -1,6 +1,7 @@
 ---
-layout: global
+layout: subpage-with-subnav
 title: Structured Streaming + Kafka Integration Guide (Kafka broker version 0.10.0 or higher)
+subnav: streaming
 license: |
   Licensed to the Apache Software Foundation (ASF) under one or more
   contributor license agreements.  See the NOTICE file distributed with

@@ -1,7 +1,8 @@
 ---
-layout: global
+layout: subpage-with-subnav
 displayTitle: Spark Streaming Programming Guide
 title: Spark Streaming
+subnav: streaming
 description: Spark Streaming programming guide and tutorial for Spark SPARK_VERSION_SHORT
 license: |
   Licensed to the Apache Software Foundation (ASF) under one or more
